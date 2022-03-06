@@ -1,0 +1,10 @@
+hello world
+^O
+
+^X
+
+clear
+
+o
+^O
+
